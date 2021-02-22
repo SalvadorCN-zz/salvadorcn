@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 -📫 How to reach me: 
 
-[![Twitter Badge](https://img.shields.io/badge/-James_Noria-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SalvadorCN_)](https://twitter.com/SalvadorCN_) [![Gmail Badge](https://img.shields.io/badge/-jamesnoria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvador.cardona98@gmail.com)](mailto:salvador.cardona98@gmail.com) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/salvadorcn)
+[![Twitter Badge](https://img.shields.io/badge/-SalvadorCN-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SalvadorCN_)](https://twitter.com/SalvadorCN_) [![Gmail Badge](https://img.shields.io/badge/-salvador.cardona98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvador.cardona98@gmail.com)](mailto:salvador.cardona98@gmail.com) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/salvadorcn)
